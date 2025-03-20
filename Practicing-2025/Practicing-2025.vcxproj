@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Exam_Practice.cpp" />
+    <ClCompile Include="String_Replacement.cpp" />
     <ClCompile Include="Non-prime numbers from 1 to an upperbound.cpp" />
     <ClCompile Include="Practice.cpp" />
     <ClCompile Include="Practice2.cpp" />

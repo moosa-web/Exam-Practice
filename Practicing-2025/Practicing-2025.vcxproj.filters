@@ -33,7 +33,7 @@
     <ClCompile Include="Practice3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Exam_Practice.cpp">
+    <ClCompile Include="String_Replacement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
